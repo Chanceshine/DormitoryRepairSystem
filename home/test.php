@@ -9,5 +9,4 @@ echo "测试时间是 " . date("y-m-d h:i:sa");
 ?>
 
 </body>
-</html>
 </html> 
